@@ -27,3 +27,6 @@ venv/
 .DS_Store
 Thumbs.db
 *.swp
+
+# 工具本地状态（gh CLI 设备标识等）
+.local/
